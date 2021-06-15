@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KevCode-Absurd
+- 👋 Hi, I’m Kevin
 - 👀 I’m interested in Web dev, AI/ML and stratups
 - 🌱 I’m currently learning Javascript/Python/React
 - 💞️ I’m looking to collaborate on anything in the startup ecosystem
