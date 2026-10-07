@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin
-- 👀 I’m interested in Web dev, AI/ML and stratups
+- 👀 I’m interested in Web dev, AI/ML and startups
 - 🌱 I’m currently learning Javascript/Python/React
 - 💞️ I’m looking to collaborate on anything in the startup ecosystem
 - 📫 How to reach me: mail kevinmark7498@gmail.com
